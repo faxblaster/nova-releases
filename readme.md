@@ -1,4 +1,4 @@
-![Nova-Releases Logo](https://raw.githubusercontent.com/tightenco/nova-releases/master/nova-releases-banner.png)
+![Nova-Releases Logo](https://raw.githubusercontent.com/tighten/nova-releases/main/nova-releases-banner.png)
 
 # Keep up on Nova releases
 
